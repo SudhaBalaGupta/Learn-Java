@@ -1,8 +1,4 @@
 import java.util.Scanner;
-
-/**
- * @author Rahul Kesharwani
- */
 public class Conditions {
 
     public static void main(String[] args) {
